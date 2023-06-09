@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Salesforce Sans";
+  src: local("Salesforce Sans"),
+    url("~@salesforce-ux/design-system/assets/fonts/SalesforceSans-Regular.ttf")
+      format("truetype");
+}
+
+body,
+html {
+  background: transparent !important;
+}

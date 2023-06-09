@@ -1,0 +1,9 @@
+{
+    "start_url": "./index.html",
+    "landing-pages": [
+      {
+        "path": "index.html",
+        "apex-controller": "WebApiVFEntryPoint"
+      }
+    ]
+}
